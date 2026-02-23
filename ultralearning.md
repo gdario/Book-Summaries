@@ -78,3 +78,27 @@ In the emphasize/exclude method you find a default curriculum and you customize 
 The author suggests to dedicate approximately 10% of the time allocated for the ultralearning effort to research. This is a flexible amount, and depends on how much time is allocated to the learning effort. If 100 hours are allocated to learning, count an extra 10 hours for research. Young spent 6 months doing research for the MIT challenge, but that's unusual. Avoid using research as a form of procrastination. Reassess from time to time, as adjustments are almost inevitable. Too much research incurs in the Law of Diminishing Returns.
 
 Finally long-term metalearning is about the knowledge accumulated by undertaking multiple such challenges. It amounts to learning how to learn hard things.
+
+## Chapter 6: Principle 3 - Directness
+
+The chapter starts telling the story of Vatsal Jaiswal, and of how he managed to get a job as an architect by working in a print shop and learning the software used by professional architects. The key idea is that, out of university, his knowledge was too theoretical and far removed from the actual job requirements, and this is why nobody was hiring him. While looking for jobs he actively looked for feedback, to understand why he was regularly rejected. This feedback allowed him to buld a desirable portfolio. What Jaiswal did was a nice example of "hacking learning": through feedback he understood what needed to be changed, and then he made a non-obvious, lateral move to fill his gaps.
+
+Learning should be close as much as possible to the target. Exampes are Roger Craig and *Jeopardy!*, Benny Lewis and language learning, and Steve Barone and videogames. Classroom learning can encourage learning formulas without understanding them, or similar behaviours. Scott Young claims that the most important element in his MIT challenge were not the video lectures, but rather the problem sets. The easiest way of practicing directness is to spend a lot of time doing what you want to learn. This is not always possible (think of flying a plane or doing surgery). In this case simulations are essentials (think of R. Craig and *Jeopardy!*). This approach is much more demanding and uncomfortable than classroom-learning.
+
+The idea of translating what you learn to what you learn it for is referred to as *transfer* and is considered the *Holy Grail of education*. Young shows a number of academic examples of failed transfer from psychology and economics. The failure of classroom learning is due to focusing on a narrow topic that is easy to assess, but this assessment is nothing like the real world.
+
+Directness reduces transfer for obvious reasons. Real use cases in different areas have commonalities, and directness can leverage them and accelerate learning. Sometimes one wants to learn a subject deeply just for the pleasure of it, but directness still plays a role, if less obvious.
+
+Learning directly is hard, but there are several ways:
+
+1. Project-based learning.
+2. Immersive learning: surround yourself with the target environment.
+3. The flight simulator method: faithful simulations.
+4. The overkill approach: increase the challenge.
+
+Not feeling ready is normal, so is discomfort. These, however, are quickly overcome by diving into action. Making your work visible and open to criticism is also extremely effective.
+
+Finally the first question to ask oneself when emarking in a learning project is "where and how will the knowledge manifest itself?".
+
+## Chapter 7: Principle 4 - Drills
+
