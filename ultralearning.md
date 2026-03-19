@@ -1,0 +1,214 @@
+# Chapter one
+
+The book starts with the author describing his MIT challenge. He then introduces a few "superlearners": the polyglot Benny Lewis, the engineer Roger Craig who won a large sum of money at Jeopardy, Eric Barone who, entirely on his own, developed a successful video game.  # two: why ultralearning matters
+
+The following (partial) definition of Ultralearning is provided:
+
+> ULTRALEARNING: a strategy for acquiring skills and knowledge that is both self-directed and intense.
+
+The author does not clarify in what way Ultralearning is a strategy, but observes that strategies are good for some things, and less good for others.
+
+Ultralearning is self-directed in the sense that the learner is in the driver seat. He or she decides **what** to learn and what to ignore, **why**, and **how**.
+
+Ultralearning is **intense**, in the sense that the learner tries hard to maximize effectiveness. Roger Craig used data analysis and engineering principles to maximize his chances of winning. It is also **fearless**: you learn by doing, and to do so, you must go *way* out of your comfort zone.
+
+Most people prefer a slow, mediocre form of learning to this fast, intense way. Many of those who try, give up after a while. On the other hand, succeeding in an Ultralearning challenge brings a rare form of happiness: the happiness of overcoming our own limiting beliefs. We discover that we are capable of something that seemed utterly impossible, that we have a power we didn't imagine we had.
+
+One of the reasons Ultralearning is valuable in today's world is the "average is over" principle. Ultra-specialization and extreme competitiveness are the rule. Many low-skills jobs are moved to cheaper countries. Interestingly the author mentions the example of Apple: "Designed in California, made in China". Design and management are described as non-transferable jobs. One has to continuously move to higher and higher skill positions (I guess management is such a position, at some point). Technology offers new opportunities for learning. Managing them is not easy.
+
+There are 3 main uses of Ultralearning: accelerating the career you have, transitioning to a new career, cultivating a hidden advantage in a competitive world. There's no doubt that there is a growing demand for people who show they can learn quickly. However, many ultralearners are moved by a vision, by curiosity, by the challenge.
+
+One challenge every ultralearner faces is finding time. There are three ways:
+
+1.  New part-time projects. You do it in your free time. It takes longer, and it is more diluted, but the key is the intensity and the determination.
+2.  Learning sabbaticals. Longer times fully dedicated to this activity.
+3.  Re-imagining existing learning projects. You integrate Ultralearning into what you are already doing.
+
+# Chapter 3: How to become an ultralearner
+
+This chapter describes how Tristan de Montebello went from a novice to the top 10 of the Toastmaster world championship. While every ultralearner is different, there are some general principles that are detailed in the following chapters. (First) Principles are important because they allow to tackle challenges you have never encountered. In the example of de Montebello finding a mentor, having a tight deadline, internal motivation, constantly pushing oneself outside of one's comfort zone, doing what **scares you the most\***. Trying different styles, diversifying your learning.
+
+In the case of public speaking, two interesting insights are
+
+1.  Trying a diverse range of styles: angry, comedy, fast, slow, intense, detached
+2.  "Make me care". We usually care, but why should someone else care?
+
+Most successful ultralearners have extreme work ethics. They are not aiming for a goal. They want to see how far they can go. It is the process that matters, not the product.
+
+The chapter ends listing the 9 principles that are detailed in the following chapters.
+
+# Chapter 4: Principle 1 - Metalearning
+
+The chapter opens with the description of how Dan Everett could learn a remarkable amount of aspects of a completely unknown language by following a systematic approach called the *monolingual fieldwork*. The knowledge of how a language is structured, or of how to understand how it is structured, is also known as *metalinguistic awareness*.  Everett's techniques, which he learned from Kenneth Pike, appear in the film "Arrival".
+
+The central theme of the chapter is metalearning, i.e., learning about learning. There are two forms: short-term and long-term metalearning.  The short form is what you do before and during learning, and the chapter focuses primarily on this form, dedicating only the last paragraph to long-term meatalearning.
+
+The suggested way to structure short-term metalearning is through a sequence of questions: why, what, how.
+
+The "why" is the reason why one is embarking in an ultralearning effort. There are two main types: instrumental learning and intrinsic learning. Instrumental learning is aimed at gaining a skill that can have a practical purpose. Intrinsic learning is instead based on personal interests, detached from immediate practical applications.
+
+If you are embarking in instrumental learning, it is useful to first verify that the new skill is going to be helpful. The best way is to talk to experts. There are many ways to find experts, in person or online. The author recommends setting short (max. 15 minutes) with them.  This can feel uncomfortable, but is very useful.
+
+The "what" is about understanding the "structure of knowledge", and is best achieved by identifying the following three components: concepts, facts, and procedures.
+
+- Concepts are the thing one needs to understand deeply and flexibly.  Mathematics, physics, computer science, are all disciplines heavily on the conceptual side.
+- Facts are things one needs to memorize. Understanding is obviously still important, but memorization plays a bigger role. Typical example is law.
+- Procedures are things one needs to practice: music, painting, riding a bicycle are all examples.
+
+Once these three categories have been filled, the next step is identifying possible bottlenecks and ways to increase efficiency.  Concepts are best learned by explaining them to someone else.
+
+The "how" is about how we are going to learn a topic. There are two main ways: benchmarking and the emphasize/exclude method.
+
+Benchmarking consists in understanding what are the common ways the subject is learned. For academic topics, the best approach finding material, courses, syllabi, and other resources that show how the order in which the subject is usually presented. In conceptual subjects like mathematics, it is usually best to stick to the syllabus. For non-academic topics, the best approach is searching for experts or people who did something similar and learn how they did it.
+
+In the emphasize/exclude method you find a default curriculum and you customize it to your needs. This is harder to do for conceptual topics that are new to you, but is valuable for languages, artistic skills, etc.
+
+The author suggests to dedicate approximately 10% of the time allocated for the ultralearning effort to research. This is a flexible amount, and depends on how much time is allocated to the learning effort. If 100 hours are allocated to learning, count an extra 10 hours for research.  Young spent 6 months doing research for the MIT challenge, but that's unusual. Avoid using research as a form of procrastination. Reassess from time to time, as adjustments are almost inevitable. Too much research incurs in the Law of Diminishing Returns.
+
+Finally long-term metalearning is about the knowledge accumulated by undertaking multiple such challenges. It amounts to learning how to learn hard things.
+
+# Chapter 5: Principle 2 - Sharpen Your Knife
+
+The chapter opens telling the story of [Mary Somerville](https://en.wikipedia.org/wiki/Mary_Somerville) who, despite the discrimination against women in the 19th century, won awards in mathematics, spoke several languages fluently, translated Laplace's work into English, painted, played the piano. She had an exceptional ability to focus. As a child, she could mentally work through Euclid's elements while in bed (she was not allowed to keep a candle lit). She translated Laplace's works while attending to the children, cooking, cleaning, and doing other chores. Being continuously interrupted, she learned how to leave a subject and resume it again. There are 3 broad varieties of struggles with focus: starting, sustaining, and optimizing the quality of one's focus.
+
+Problem 1, starting, is about procrastination. Procrastination usually comes from a craving to do something else, mixed with an aversion to do the current task. Possible reasons can be lack of clarity on how to start, or anxiety if the task is demanding or intimidating. The first step to overcoming procrastination is to recognize when you are procrastinating. Trying to recognize whether it is aversion or craving can help identifying procrastination and its roots. When one succeeds at identifying procrastination, there are several tool or "crutches" one can use.
+
+The first crutch is the realization that the aversion or craving are short lived. If you are worried, it only takes a couple of minutes to overcome the fear once you dive into the task. One risk is doing the task for a few minutes, immediately followed by a break (as a sort of reward). The consequence is too many breaks and too much fragmentation.  The **Pomodoro Technique** is an effective solution. One can add extra rules, like: "you can take a break only once you have gone through all your Anki cards" or similar. Using a calendar and setting a schedule can be useful, but only if you stick to such schedule.
+
+The second problem is failing to sustain focus, i.e. getting distracted.  Young mentions the state of "flow" which seems highly desirable, but has also attracted criticism. K. Anders Ericsson claims that flow and deliberate practice are inconsistent. Young tends to agree with Ericsson, and although he doesn't explude the possibility of flow during ultralearning, the high demands requested by it make flow very hard to achieve.
+
+The next question is how long one should focus: research shows that retention is higher when practice is broken into periods, rather than crammed together. If you have several hours, it's better to split them and cover multiple topics instead of only one. One hour or 50 minutes is a good time. If time is chunked, put a break every hour.
+
+There are 3 different sources of distraction: the environment, your taks, your mind. Environmental distractions often coincide with multitasking, which is incompatible with ultralearning. For task-related distraction, certain learning tools facilitate focus (e.g. videos vs reading), but this may be just a feeling. It is important for the tool to be direct and give feedback. Workarounds are, for example, writing active notes while reading. The third source is your mind. A clear, calm mind is best for focusing. Mindfulness is the best approach for this.
+
+Another question is what is the optimal degree of alertness to maximize learning? A high arousal is characterized by a narrow focus. This can work for simpler task that requires intense concentration. Too much arousal affects focus. Mathematical problems benefit from a more relaxed focus. If you get stuck, no focus at all may be best.
+
+The final advice is to start small: develop the focus muscles incrementally, increasing the amount of focus time.
+
+# Chapter 6: Principle 3 - Directness
+
+The chapter starts telling the story of Vatsal Jaiswal, and of how he managed to get a job as an architect by working in a print shop and learning the software used by professional architects. The key idea is that, out of university, his knowledge was too theoretical and far removed from the actual job requirements, and this is why nobody was hiring him. While looking for jobs he actively looked for feedback, to understand why he was regularly rejected. This feedback allowed him to buld a desirable portfolio. What Jaiswal did was a nice example of "hacking learning": through feedback he understood what needed to be changed, and then he made a non-obvious, lateral move to fill his gaps.
+
+Learning should be close as much as possible to the target. Exampes are Roger Craig and *Jeopardy!*, Benny Lewis and language learning, and Steve Barone and videogames. Classroom learning can encourage learning formulas without understanding them, or similar behaviours. Scott Young claims that the most important element in his MIT challenge were not the video lectures, but rather the problem sets. The easiest way of practicing directness is to spend a lot of time doing what you want to learn. This is not always possible (think of flying a plane or doing surgery). In this case simulations are essentials (think of R. Craig and *Jeopardy!*). This approach is much more demanding and uncomfortable than classroom-learning.
+
+The idea of translating what you learn to what you learn it for is referred to as *transfer* and is considered the *Holy Grail of education*. Young shows a number of academic examples of failed transfer from psychology and economics. The failure of classroom learning is due to focusing on a narrow topic that is easy to assess, but this assessment is nothing like the real world.
+
+Directness reduces transfer for obvious reasons. Real use cases in different areas have commonalities, and directness can leverage them and accelerate learning. Sometimes one wants to learn a subject deeply just for the pleasure of it, but directness still plays a role, if less obvious.
+
+Learning directly is hard, but there are several ways:
+
+1.  Project-based learning.
+2.  Immersive learning: surround yourself with the target environment.
+3.  The flight simulator method: faithful simulations.
+4.  The overkill approach: increase the challenge.
+
+Not feeling ready is normal, so is discomfort. These, however, are quickly overcome by diving into action. Making your work visible and open to criticism is also extremely effective.
+
+Finally the first question to ask oneself when emarking in a learning project is "where and how will the knowledge manifest itself?".
+
+# Chapter 7: Principle 4 - Drills
+
+# Chapter 10: Principle 7 - Retention
+
+The chapter starts thelling about Nigel Richards, who won the world Scrabble championship in French, while not speaking French at all. He is an example where retention and speed of retrieval are crucial. For Richards, words are just combination of letters to remember. The meaning is not important.
+
+Richards is also obsessive in his activities, in this resembling Ramanujan and other ultralearners. He memorizes lists of words then repeat them while cycling, sometimes for hours, starting from short ones, up to long ones. He remembers words visually, and cannot remember spoken words.
+
+Memory is essential for learning, and retention depends on strategies.  Hermann Ebinnghaus memorized random sequences and measure the time to forget. The result is the *forgetting curve*: there is an exponential decay which is steepest right after learning, and then tapers off. There are 3 dominant theories of forgetting: decay, interference, forgotten cues.
+
+Decay: we forget more as time passes. Criticism to this theory is based on the fact that we can remember very old facts.
+
+Interference: memories overlap, and similar memories can compete (example of different types of loops in programming). There are 2 types of interference. Proactive interference is when learning something because of something previously learned. Retroactive interference is when a newly learned concept erases an existing one.
+
+Forgotten cues is the theory where memories are not removed, but they become inaccessible. There might be more than one path to retrieval.  Learning anew is compared with construction, while re-learning is easier and akin to repair. Criticism to this theory is that some memories are built and reinforced through modifications (we think we remember facts, but those are fabrications).
+
+Two challenges for ultralearners: 1) how to retain what just learned (short-term)? 2) How to retain once the project is over (long-term)?  There are several approaches, some technical, some not.
+
+Spacing: spread over sessions with intervals in between, don't cram. If spacing is too close, it's inefficient. If it's too long, it leads to forgetting. Space Repetition Systems (SRS) are based on this mechanism.  They are great for focused information that can be put in QA form, but not for complex associations. Simple list memorization (no SW, like Richards), can also work well. Another approach is having semi-regular refresher projects.
+
+Proceduralization: riding a bike is an example of procedural knowledge - it's *knowing how*. Calculus is an example of declarative knowledge - it's *knowing that...*. A theory claims that most learning starts declarative and, through practice, becomes procedural. One possible implementation: repeat core concepts frequently until they become procedural. Non-core concepts can be repeated less often. Most skills are incompletely proceduralized. Algebra is an example, where some parts become natural, but others do not.
+
+Overlearning: practice beyond adequacy. In ultralearning these are usually short phases. It is related to directness. There are 2 main methods. 1) core practice, where core skills are practiced over and over. 2) advanced practice, where you go one level above a certain skill.
+
+Mnemonics: it can be very effective, but requires a substantial up-front investment. One common method is the *keyword* approach. Example: the French word Chavier (to capsize) sounds a bit like "shave an ear". One can form a powerful image to remember it. Recalling mnemonics require some processing, and it may not be as fast as necessary in some cases.
+
+# Chapter 11: Principle 8 - Intuition
+
+The chapter starts with the definition of Feynman as a magician.  Apparently he got an IQ test while in school where he scored 125 points.  Feynman claimed to have a scheme: when someone was explaining something he was trying to understand, he would not try to follow an equation, but would rather keep making up examples, trying to imagine the situation it described. As more information is provided, he'd work through it on his example.
+
+In an experiment advanced Physics PhD students and undergraduates were given a set of problems. The latter focused on the superficial features of the problems, while the latter concentrated on the principles (conservation of energy, momentum, collisions). This principle-thinking is the result of experience and practice. Similarly, when chess masters and beginners were asked to reconstruct a position from memory, the beginners were thinking position by position, while the masters reasoned in chunks and patterns. Masters may need to build libraries of 50,000 such patterns or more. Feynman's examples went straight to the underlying principles, and were built on a library of Physics and math patterns.
+
+Memorizing patterns doesn't mean developing intuition. It's far easier to memorize patterns without seeing the connections or the overarching principles. Some heuristic rules can help (apparently from Feynman).
+
+1.  Don't give up on hard problems easily. Feynman eschewed the Lagrangian method and computed forces one by one. He loved problems and puzzles and pushed them beyond what everyone else did. You can use a *struggle timer*. If for example, you want to give up on a problem, you can use this timer and spend 10 more minutes on it and push yourself further.
+2.  Prove things to understand them. Feynman repeated other people's work and suffered from the "not invented here" syndrome (Lee and Yang theory is an example). The famous phrase "What I cannot create, I do not understand" says it all. He did not rely on other people's results. He had to obtain them by himself. Einstein was similar. This has to do with the *illusion of explanatory depth*. We often think we understand something when we don't because we don't test ourselves hard enough.
+3.  Always start with a concrete example. By working through an example, Feynman could understand how the math worked out, not the other way around. The *levels-of-processing effect* states that it is not how long one spends on a concept that determines retention, but rather how one thinks about the information. If you cannot come up with an example, you probably haven't understood.
+4.  Don't fool yourself. The *Dunning-Kruger* effect is when someone with an inadequate understanding of a subject believes s/he has more knowledge than those who actually do. Lack of knowledge means lack of means for self-assessment. The more you know, the more questions you have, and the converse seems to be also true. *Ask lots of questions*. Feynman and Campanini had the same approach: they started asking dumb questions, and quickly went to the core of the matter. Not asking questions, maybe trying to appear knowledgeable, is the very worst attitude.
+
+## The Feynman Technique
+
+In Young's formulation is the following:
+
+1.  Write down a concept or problem you want to understand at the top of a piece of paper.
+2.  In the space below, explain the idea as if you had to teach it to someone else.
+    1.  If it is a concept, explain it as you would to someone who has never heard it before (starting from first-ish principles).
+    2.  If it's a problem, solve it and explain why the solution makes sense. Consider edge cases.
+3.  If you get stuck, go back to your books or other references.
+
+## [TODO]{.todo .TODO} Check if this is what Feynman did in his notebooks {#check-if-this-is-what-feynman-did-in-his-notebooks}
+
+There are several ways to apply the rule
+
+### For things you don't understand at all
+
+The idea is to go back and forth between the references and your notes, breaking down and examining each concept, building a picture or model.
+
+### For problems you can't seem to solve
+
+The idea is to go through the problem step by step, always verifying that you understand the conditions, creating examples, solving subproblems. If you have doubts about the interpretation, write them down, and work on them until you can rule out those that simply cannot be right.
+
+### For expanding your intuition
+
+Develop examples, analogies, illustrations that would help someone who is less or not at all familiar with the problem get the gist of it.  Visual examples to capture abstractions.
+
+Feynman was obsessive and methodical (created timetables, optimized the exploration of safe combinations), clearly preferred aggressive methods
+
+# Chapter 13: Principle 9 - Experimentation
+
+Van Gogh started painting late, without formal training, and showed no skill or talent. Moreover, he alienated people and was probably murdered. Still, he's one of the most famous painters ever. He consumed some books, redoing the same exercises over and over again. He changed style many times, sometimes upon the advice of others. He experimented with great intensity if not obsession. Variety and intensity were key in hid sevelopment. Experimentation has three strenghts: 1) at the beginner level people are similar. With more experience, there is diversification. It is no longer enough to follow examples. 2) Beginners accumulate knowledge because they have to learn the basics. Masters unlearn, and remove what is unnecessary. 3) Originality is rewarded. A good mathematician, for example, is one who produces new results, not one who can reproduce existing results.
+
+## Experimenting with learning resources
+
+Try many, but work hard on each one you try. A good strategy is picking one resource, work methodically on it for a period of time, assess whether your learning improved.
+
+## Experimenting with technique
+
+As one progresses, the number of things one can learn expands. Think of Python: at the beginning everyone must learn the syntax, then one can go into web development, ML, scientific computing, etc. Experiment with these: pick one technique, work aggressively on it, evaluate.
+
+## Experiment with style
+
+At the beginning, experimentation is mostly about technique. As one progresses, one tries to identify the style that best matches her/his own set of strengths and weaknesses. There's a tension between trying many things, and spending enough time to seriously explore them.  Ruthlessly discard techniques and styles that do not work.
+
+Carol Dweck distinguished between growth and fixed mindset. The former sees challenges as opportunities for development. The latter assumes that abilities are fixed and cannot be pushed far. Experimentation is aligned with the growth mindset: it assumes that one can grow, and that there are many ways to do so. It is the opposite of dogmatism.
+
+## How to experiment
+
+### Copy and then create
+
+Start copying from a reliable source. It has two advantages: it reduces the number of possible choices, and forces the practitioner to deconstruct the activity.
+
+### Compare methods side by side
+
+Use the scientific method by varying one thing at a time. Young describes how he tried different methods to learn French vocabulary. The benefits are 1) that one gathers information on what works and what doesn't and 2) practice is diversified.
+
+### Introduce new constraints
+
+Innovation in design comes from constraints. Without them, design almost invariable turns into a mess. They prevent the risk of falling back to (over)used approaches.
+
+### Combine skills
+
+Ahtletes and artists practice the same drills over and over until they are perfect. This is demanding and time consuming. A less demanding approach consists in combining two less-than-perfect skill creating a unique mix which can become a supoerpower.
+
+### Explore the extremes
+
+Playing safe in the middle doesn't go far. Most exploration opportunities are where fewer people go, i.e., the extremes. Van Gogh's use of colour is an example.
