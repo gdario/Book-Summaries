@@ -1,4 +1,11 @@
-# Chapter one
+---
+title: Ultralearning
+author: "Scott H. Young"
+year: 2019
+---
+# Ultralearning
+
+## Chapter one
 
 The book starts with the author describing his MIT challenge. He then introduces a few "superlearners": the polyglot Benny Lewis, the engineer Roger Craig who won a large sum of money at Jeopardy, Eric Barone who, entirely on his own, developed a successful video game.  # two: why ultralearning matters
 
@@ -24,7 +31,7 @@ One challenge every ultralearner faces is finding time. There are three ways:
 2.  Learning sabbaticals. Longer times fully dedicated to this activity.
 3.  Re-imagining existing learning projects. You integrate Ultralearning into what you are already doing.
 
-# Chapter 3: How to become an ultralearner
+## Chapter 3: How to become an ultralearner
 
 This chapter describes how Tristan de Montebello went from a novice to the top 10 of the Toastmaster world championship. While every ultralearner is different, there are some general principles that are detailed in the following chapters. (First) Principles are important because they allow to tackle challenges you have never encountered. In the example of de Montebello finding a mentor, having a tight deadline, internal motivation, constantly pushing oneself outside of one's comfort zone, doing what **scares you the most\***. Trying different styles, diversifying your learning.
 
@@ -37,7 +44,7 @@ Most successful ultralearners have extreme work ethics. They are not aiming for 
 
 The chapter ends listing the 9 principles that are detailed in the following chapters.
 
-# Chapter 4: Principle 1 - Metalearning
+## Chapter 4: Principle 1 - Metalearning
 
 The chapter opens with the description of how Dan Everett could learn a remarkable amount of aspects of a completely unknown language by following a systematic approach called the *monolingual fieldwork*. The knowledge of how a language is structured, or of how to understand how it is structured, is also known as *metalinguistic awareness*.  Everett's techniques, which he learned from Kenneth Pike, appear in the film "Arrival".
 
@@ -67,7 +74,7 @@ The author suggests to dedicate approximately 10% of the time allocated for the 
 
 Finally long-term metalearning is about the knowledge accumulated by undertaking multiple such challenges. It amounts to learning how to learn hard things.
 
-# Chapter 5: Principle 2 - Sharpen Your Knife
+## Chapter 5: Principle 2 - Sharpen Your Knife
 
 The chapter opens telling the story of [Mary Somerville](https://en.wikipedia.org/wiki/Mary_Somerville) who, despite the discrimination against women in the 19th century, won awards in mathematics, spoke several languages fluently, translated Laplace's work into English, painted, played the piano. She had an exceptional ability to focus. As a child, she could mentally work through Euclid's elements while in bed (she was not allowed to keep a candle lit). She translated Laplace's works while attending to the children, cooking, cleaning, and doing other chores. Being continuously interrupted, she learned how to leave a subject and resume it again. There are 3 broad varieties of struggles with focus: starting, sustaining, and optimizing the quality of one's focus.
 
@@ -85,7 +92,7 @@ Another question is what is the optimal degree of alertness to maximize learning
 
 The final advice is to start small: develop the focus muscles incrementally, increasing the amount of focus time.
 
-# Chapter 6: Principle 3 - Directness
+## Chapter 6: Principle 3 - Directness
 
 The chapter starts telling the story of Vatsal Jaiswal, and of how he managed to get a job as an architect by working in a print shop and learning the software used by professional architects. The key idea is that, out of university, his knowledge was too theoretical and far removed from the actual job requirements, and this is why nobody was hiring him. While looking for jobs he actively looked for feedback, to understand why he was regularly rejected. This feedback allowed him to buld a desirable portfolio. What Jaiswal did was a nice example of "hacking learning": through feedback he understood what needed to be changed, and then he made a non-obvious, lateral move to fill his gaps.
 
@@ -106,9 +113,93 @@ Not feeling ready is normal, so is discomfort. These, however, are quickly overc
 
 Finally the first question to ask oneself when emarking in a learning project is "where and how will the knowledge manifest itself?".
 
-# Chapter 7: Principle 4 - Drills
+## Chapter 7: Principle 4 - Drills
 
-# Chapter 10: Principle 7 - Retention
+## Chapter 8: Principle 5 - Retrieval: Test to Learn
+
+The chapter starts with the story of Srinivasa Ramanujan, and his reliance on George Shoobriddge Carr's "A Synopsis of Elementary Results in Pure and Applied Mathematics".
+
+### The testing effect
+
+In an experiment by psychologists Jeffrey Karpicke and Janell Blunt, students were divided into four groups, each given the same amount of time, each using a different study strategy: 
+
+1. Reviewing the text a single time.
+2. Reviewing it repeatedly.
+3. Free recall.
+4. Concept mapping.
+
+Students were asked to predict their own scores in upcoming tests. Those who practiced free recall remembered almost 50% more than the other groups. In a variant of the experiment, students were tested on their ability to produce a concept map. Again, the free recall group performed better than the concept mapping group. Students were not given any feedback before the test.
+
+### The paradox of studying
+
+Humans are not good at knowing how well they have learned something. We rely on judgment of learning (JOL), in which the harder the learning experience, the lower the confidence in its effectiveness, although the opposite is true. It is tempting to postpone free recall, and opt for review, until one "feels ready".
+
+### Is difficulty desirable?
+
+Free recall is superior to cued recall (i.e. one with hints), which is in turn superior to multiple choice tests. Recall is more effective is there is a delay between exposure to the material and testing. Making learning harder, makes it also more effective. Pushing difficulty and testing yourself before you are "ready" is more efficient. Obviously it shouldn't be so hard that retrieval becomes impossible.
+
+### Should you take the final exam before the class even begins?
+
+The forward-testing effect is a concept from retrieval research which says that retrieval not only helps enhance what you have learned, but can also help with what you will learn next. Trying to solve a problem you haven't learned how to solve yet can reinforce your problem solving strategies. There are several explanations for this, but regardless, there is a lot of evidence that this is a powerful approach (think of Feynman).
+
+### What should be retrieved?
+
+Young mentions his experience with modal logic. The question is what one should spend time retrieving? One way to answer is via direct practice. What you don't use often or at all, is quickly forgotten. The limitation of using exclusively direct practice is that it does not leverage knowledge you do not yet have. It looks like a exploration-exploitation tradeoff.
+
+### How to practice retrieval
+
+Flash cards are very effective, but they are also very specific. Knowledge that does not fit the cue-response framework is not well suited for flash cards.
+
+Free recall is, for example, when you read something and then close the book and try to write down what you remember. It is hard, but its difficulty is what makes it effective.
+
+The question-book method consists in rephrasing what you have learned as questions. It is easy to compile a list of very detailed questions, but one should give priority to the big picture. Young suggests writing a single question per section of a text. This forces the learner to identify the core message.
+
+Self-generated challenges are better suited for skills one wants to hone. Example: implementing in code a concept you have just learned.
+
+Closed-book learning is when you cut off the ability to search for hints. Concept mapping is more useful if one does it as a form of retrieval, while keeping the book closed (similar to writing down what you remember, just more focused on interconnections and more visual).
+
+## Chapter 9: Principle 6 - Feedback
+
+Chris Rock (the comedian) sometimes performs at the Comedy Cellar in Greenwich Village to get early feedback on his new material. Other comedians test their new material in front of small audiences before using it in large gigs.
+
+### The power of information
+
+Getting feedback is one of the most widespread ultralearning tactics. K. Anders Ericsson noticed that the ability of getting immediate feedback is a core ingredient in reaching expert levels of performance. Counterintuitively, many medical practitioners get worse with more experience, possibly because they get less and less feedback.
+
+### Can feedback backfire?
+
+The type of feedback, rather than the quantity, is what matters. Too much feedback can be counterproductive. It is useful if it provides information that can guide future learning. It is detrimental if it is aimed at one's ego. Praise is usually harmful to further learning. Who gives feedback matters too. Two mistakes are 1) over-reacting to feedback that does not offer information on how to improve and 2) feedback, when incorrectly applied, can have a negative effect on motivation.
+
+Feedback is under-used because it can be uncomfortable. Ultralearners who have managed to make good use of it have a massive advantage. Often it is not the feedback itself, but rather fear of feedback that can impede progress. Diving straight for the hardest environment can reduce such fears, but this requires self-confidence.
+
+### What kind of feedback do you need?
+
+Young covers three types of feedback: outcome feedback, information feedback, and corrective feedback.
+
+Outcome feedback: Are you doing it wrong? It says how well you are doing overall, but does not provide any information on what needs to be improved. A pass/fail mark is an example. It is the most coarse-grained, but it is still useful. You can use it to compare different learning methods.
+
+Informational feedback: What are you doing wrong? It tells you what you are doing wrong, but does not tell you how to fix it. Error messages from a computer can be an example.
+
+Corrective feedback: How can you fix what you're doing wrong? It is the most informative. Often it comes from an instructor, but not only. For example: solution books to selected mathematical problems can show what one is doing wrong.
+
+The optimal feedback shows the difference between the current state and the desired state, and help taking a step in the best direction to improve.
+
+### Further notes on types of feedback
+
+Upgrading from a less to a more specific type of feedback is impossible, unless you get access to new information. Holistic evaluation is just that, and trying to decompose it into a more granular level can be counterproductive. One can get very diverse feedback, in which case one knows that something is wrong, but it's unclear what. When feedback starts becoming more consistent, then it becomes informative.
+
+### How quick should feedback be?
+
+Immediate feedback is usually superior in settings outside of the laboratory. In lab settings, delayed feedback seems to be more effective. It might be that immediate feedback is best paired with delayed review or testing. Too early a feedback can turn retrieval practice into passive review.
+
+### How to improve your feedback
+
+1. Noise cancellation: Every feedback consists of signal and noise. Example of blog writing. Feedback can depend on many factors. Using proxy signals can help, e.g., checking how many readers read the whole article.
+2. Hitting the difficulty sweet spot: Good feedback is very hard to predict, and this is why it is informative. Being either too successful or too unsuccessful is not informative. One has to find the right spot: if you fails too little, you must make things harder. Avoid situations that always make you feel good or bad.
+3. Metafeedback: Evaluating the overall success of the strategy you're using to learn. Learning rate is an important one. Chess players track their ELO rating, language learners may track their vocabulary, etc. If your learning rate is slowing down, it's time to change method. Metafeedback is useful to compare different learning methods.
+4. High intensity, rapid feedback: Getting a lot of feedback a lot more often. Lewis' exposure to native speakers from day one. By throwing yourself into a high-intensity, rapid feedback environment, you can decrease your fear of receiving feedback.
+
+## Chapter 10: Principle 7 - Retention
 
 The chapter starts thelling about Nigel Richards, who won the world Scrabble championship in French, while not speaking French at all. He is an example where retention and speed of retrieval are crucial. For Richards, words are just combination of letters to remember. The meaning is not important.
 
@@ -132,7 +223,7 @@ Overlearning: practice beyond adequacy. In ultralearning these are usually short
 
 Mnemonics: it can be very effective, but requires a substantial up-front investment. One common method is the *keyword* approach. Example: the French word Chavier (to capsize) sounds a bit like "shave an ear". One can form a powerful image to remember it. Recalling mnemonics require some processing, and it may not be as fast as necessary in some cases.
 
-# Chapter 11: Principle 8 - Intuition
+## Chapter 11: Principle 8 - Intuition
 
 The chapter starts with the definition of Feynman as a magician.  Apparently he got an IQ test while in school where he scored 125 points.  Feynman claimed to have a scheme: when someone was explaining something he was trying to understand, he would not try to follow an equation, but would rather keep making up examples, trying to imagine the situation it described. As more information is provided, he'd work through it on his example.
 
@@ -145,7 +236,7 @@ Memorizing patterns doesn't mean developing intuition. It's far easier to memori
 3.  Always start with a concrete example. By working through an example, Feynman could understand how the math worked out, not the other way around. The *levels-of-processing effect* states that it is not how long one spends on a concept that determines retention, but rather how one thinks about the information. If you cannot come up with an example, you probably haven't understood.
 4.  Don't fool yourself. The *Dunning-Kruger* effect is when someone with an inadequate understanding of a subject believes s/he has more knowledge than those who actually do. Lack of knowledge means lack of means for self-assessment. The more you know, the more questions you have, and the converse seems to be also true. *Ask lots of questions*. Feynman and Campanini had the same approach: they started asking dumb questions, and quickly went to the core of the matter. Not asking questions, maybe trying to appear knowledgeable, is the very worst attitude.
 
-## The Feynman Technique
+### The Feynman Technique
 
 In Young's formulation is the following:
 
@@ -155,60 +246,60 @@ In Young's formulation is the following:
     2.  If it's a problem, solve it and explain why the solution makes sense. Consider edge cases.
 3.  If you get stuck, go back to your books or other references.
 
-## [TODO]{.todo .TODO} Check if this is what Feynman did in his notebooks {#check-if-this-is-what-feynman-did-in-his-notebooks}
+### [TODO]{.todo .TODO} Check if this is what Feynman did in his notebooks {#check-if-this-is-what-feynman-did-in-his-notebooks}
 
 There are several ways to apply the rule
 
-### For things you don't understand at all
+#### For things you don't understand at all
 
 The idea is to go back and forth between the references and your notes, breaking down and examining each concept, building a picture or model.
 
-### For problems you can't seem to solve
+#### For problems you can't seem to solve
 
 The idea is to go through the problem step by step, always verifying that you understand the conditions, creating examples, solving subproblems. If you have doubts about the interpretation, write them down, and work on them until you can rule out those that simply cannot be right.
 
-### For expanding your intuition
+#### For expanding your intuition
 
 Develop examples, analogies, illustrations that would help someone who is less or not at all familiar with the problem get the gist of it.  Visual examples to capture abstractions.
 
 Feynman was obsessive and methodical (created timetables, optimized the exploration of safe combinations), clearly preferred aggressive methods
 
-# Chapter 13: Principle 9 - Experimentation
+## Chapter 13: Principle 9 - Experimentation
 
 Van Gogh started painting late, without formal training, and showed no skill or talent. Moreover, he alienated people and was probably murdered. Still, he's one of the most famous painters ever. He consumed some books, redoing the same exercises over and over again. He changed style many times, sometimes upon the advice of others. He experimented with great intensity if not obsession. Variety and intensity were key in hid sevelopment. Experimentation has three strenghts: 1) at the beginner level people are similar. With more experience, there is diversification. It is no longer enough to follow examples. 2) Beginners accumulate knowledge because they have to learn the basics. Masters unlearn, and remove what is unnecessary. 3) Originality is rewarded. A good mathematician, for example, is one who produces new results, not one who can reproduce existing results.
 
-## Experimenting with learning resources
+### Experimenting with learning resources
 
 Try many, but work hard on each one you try. A good strategy is picking one resource, work methodically on it for a period of time, assess whether your learning improved.
 
-## Experimenting with technique
+### Experimenting with technique
 
 As one progresses, the number of things one can learn expands. Think of Python: at the beginning everyone must learn the syntax, then one can go into web development, ML, scientific computing, etc. Experiment with these: pick one technique, work aggressively on it, evaluate.
 
-## Experiment with style
+### Experiment with style
 
 At the beginning, experimentation is mostly about technique. As one progresses, one tries to identify the style that best matches her/his own set of strengths and weaknesses. There's a tension between trying many things, and spending enough time to seriously explore them.  Ruthlessly discard techniques and styles that do not work.
 
 Carol Dweck distinguished between growth and fixed mindset. The former sees challenges as opportunities for development. The latter assumes that abilities are fixed and cannot be pushed far. Experimentation is aligned with the growth mindset: it assumes that one can grow, and that there are many ways to do so. It is the opposite of dogmatism.
 
-## How to experiment
+### How to experiment
 
-### Copy and then create
+#### Copy and then create
 
 Start copying from a reliable source. It has two advantages: it reduces the number of possible choices, and forces the practitioner to deconstruct the activity.
 
-### Compare methods side by side
+#### Compare methods side by side
 
 Use the scientific method by varying one thing at a time. Young describes how he tried different methods to learn French vocabulary. The benefits are 1) that one gathers information on what works and what doesn't and 2) practice is diversified.
 
-### Introduce new constraints
+#### Introduce new constraints
 
 Innovation in design comes from constraints. Without them, design almost invariable turns into a mess. They prevent the risk of falling back to (over)used approaches.
 
-### Combine skills
+#### Combine skills
 
 Ahtletes and artists practice the same drills over and over until they are perfect. This is demanding and time consuming. A less demanding approach consists in combining two less-than-perfect skill creating a unique mix which can become a supoerpower.
 
-### Explore the extremes
+#### Explore the extremes
 
 Playing safe in the middle doesn't go far. Most exploration opportunities are where fewer people go, i.e., the extremes. Van Gogh's use of colour is an example.
