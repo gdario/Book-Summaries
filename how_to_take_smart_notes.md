@@ -1,6 +1,9 @@
-# How to Take Smart Notes
+---
+title: "How to Take Smart Notes"
+author: "Sonke Ahrens"
+---
 
-Author: Sonke Ahrens
+# How to Take Smart Notes
 
 ## Self discipline, willpower, distractions
 

@@ -1,6 +1,6 @@
-#+title: Ultralearning
-#+author: Scott H. Young
-#+year: 2019
+#+TITLE: Ultralearning
+#+AUTHOR: Scott H. Young
+#+YEAR: 2019
 
 * Ultralearning
 
@@ -113,7 +113,29 @@ Not feeling ready is normal, so is discomfort. These, however, are quickly overc
 
 Finally the first question to ask oneself when emarking in a learning project is "where and how will the knowledge manifest itself?".
 
-** TODO Chapter 7: Principle 4 - Drills
+** Chapter 7: Principle 4 - Drills
+
+Benjamin Franklin used to do the following exercise: he would take notes one article he particularly liked, then wait a few days, and try to reconstruct the original argument. He would then compare his version with the original. To enrich his vocabulary, he would convert the article to verse, and use synonyms. He practiced the Socratic method in order to improve both his writing and his arguments.
+
+In chemistry the rate delimiting step is the step in a chain of reactions that takes the longest time, i.e., it is the bottleneck. By identifying the rate limiting step in your learning process, you can isolate it and practice it.
+
+If you focus too much on one single aspect, your overall learning may get worse while you are getting better at that aspect. Drills allow to isolate one aspect and dedicate your full focus on it. There is a tension between direct practice and drills: the former is holistic, while the latter focuses on a single aspect. One solution is to alternate the two approaches: the first step is to practice the skill directly. The next step is to analyze the direct skill and to identify the rate limiting step. The final step is to go back to the direct practice and integrate the isolated component that has hopefully been improved. The earlier one is in the learning process, the faster this iteration should be. As one approaches mastery, time is mostly spent on drills and on specific aspects.
+
+There are three problems in the application of this principle:
+
+1. When and what should you drill? Again, identify the rate limiting step. What is the single aspect that, if improved, would bring the largest benefit?
+2. Designing the drill: it can be hard to design a drill that does not, by isolating a specific task, make the setting artificial and unrealistic.
+3. Doing drills is hard and often uncomfortable.
+
+Some possible approaches are:
+
+1. Time slicing: this is what musicians and athletes do when they focus on the hardest part of a piece, or on a specific activity (e.g., penalty shots). These activities are part of the overall skill. The practitioner focuses on a particular segment (the "time slice").
+2. Cognitive components: here the practitioner focuses on a particular cognitive activity, not on a time slice.
+3. The copycat: by copying the activities you do *not* want to practice you can isolate the ones you are interested in. It saves time and reduces the cognitive burden.
+4. The magnifying glass method: spend more time on one component of the skill than you would normally do.
+5. Prerequisite chaining: start with a skill you don't have all the prerequisites for, you will do poorly, go back one step, learn one of the foundational topics, and repeat the exercise. Starting too hard and learning the prerequisites as you go can be frustrating, but it is a common technique among ultralearners.
+
+Drilling must be mindful: one must have clear *why* we are doing the drill, otherwise it is just a mechanical activity. In an ultraleaerning project, finding this purpose is up to you.
 
 ** Chapter 8: Principle 5 - Retrieval: Test to Learn
 
